@@ -40,8 +40,9 @@ I am also fascinated and usually discovering the never ending AI and Robotics wo
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@c4222eb1-a5c8-4b4a-9951-1a860a212147/8cd0cad2-4c86-4d30-a363-b34ebb1e219b.svg"></embed></figure>
+<!--END_SECTION:waka-->
+
 
 ### 🎓 Recent Projects
 >- [Developed a Mobile Device-Based Application for Delivering Obsessive Compulsive Disorder (OCD) Interventions]() 
