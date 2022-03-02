@@ -38,16 +38,16 @@ I am also fascinated and usually discovering the never ending AI and Robotics wo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-<img src="https://wakatime.com/share/@c4222eb1-a5c8-4b4a-9951-1a860a212147/844aac5a-a938-4be4-b011-86e7ff403f13.svg" height="300" />
-<!--END_SECTION:waka-->
-
-
 ### 🎓 Recent Projects
 >- [Developed a Mobile Device-Based Application for Delivering Obsessive Compulsive Disorder (OCD) Interventions]() 
 >- [Progressive Web App based Mobile BLE GCS Interface]() 
 
 <br />
+
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+<img src="https://wakatime.com/share/@c4222eb1-a5c8-4b4a-9951-1a860a212147/844aac5a-a938-4be4-b011-86e7ff403f13.svg" height="350" />
+<!--END_SECTION:waka-->
 
 ![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkekeFabian&hide=issues&count_private=true&show_icons=true&theme=onedark)
