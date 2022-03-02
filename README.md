@@ -40,7 +40,7 @@ I am also fascinated and usually discovering the never ending AI and Robotics wo
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-src="https://wakatime.com/share/@c4222eb1-a5c8-4b4a-9951-1a860a212147/bdfd3d94-0de5-4391-add6-ddb3c0c5caf3.svg"
+<img src="https://wakatime.com/share/@c4222eb1-a5c8-4b4a-9951-1a860a212147/bdfd3d94-0de5-4391-add6-ddb3c0c5caf3.svg" height="400" />
 <!--END_SECTION:waka-->
 
 
