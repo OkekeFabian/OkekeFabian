@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm [Fabian Okeke](), a passionate self-taught web and mobile developer 👨‍💻. I am currently doing my Masters in Computer Science with specialisation in Artificial Intelligence at Albert Ludwigs University, Freiburg, Germany. I work as a Software Developer for the PI Innovation Team in Freiburg. My Passion for software development stems from imagining various ideas and applications and making them come true with elegant interfaces. I don't shy from challenges as I usually go into new areas and programming languages depending on the project I get on. 
+I'm [Fabian Okeke](OkekeFabian.github.io), a passionate self-taught web and mobile developer 👨‍💻. I am currently doing my Masters in Computer Science with specialisation in Artificial Intelligence at Albert Ludwigs University, Freiburg, Germany. I work as a Software Developer for the PI Innovation Team in Freiburg. My Passion for software development stems from imagining various ideas and applications and making them come true with elegant interfaces. I don't shy from challenges as I usually go into new areas and programming languages depending on the project I get on. 
 
 I am also fascinated and usually discovering the never ending AI and Robotics world. 
 
 
-[![Website - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&logo=Dark-Reader)]()
+[![Website - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&logo=Dark-Reader)](OkekeFabian.github.io)
 
 <a href="https://www.instagram.com/awesome_fabyan/">
   <img align="left" alt="Fabian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -39,7 +39,7 @@ I am also fascinated and usually discovering the never ending AI and Robotics wo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ### 🎓 Recent Projects
->- [Developed a Mobile Device-Based Application for Delivering Obsessive Compulsive Disorder (OCD) Interventions]() 
+>- [Developed a Mobile Device-Based Application for Delivering Obsessive Compulsive Disorder (OCD) Interventions](https://github.com/OkekeFabian/ocd) 
 >- [Progressive Web App based Mobile BLE GCS Interface]() 
 
 <br />
