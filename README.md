@@ -4,6 +4,8 @@ I'm [Fabian Okeke](https://okekefabian.github.io), a passionate self-taught web 
 
 I am also fascinated and usually discovering the never ending AI and Robotics world. 
 
+Currently participating in the Google solution challenge, now in the top 50 as a Flutter developer.
+
 
 [![Website - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&logo=Dark-Reader)](https://okekefabian.github.io)
 
