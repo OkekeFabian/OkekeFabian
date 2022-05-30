@@ -43,6 +43,7 @@ Currently participating in the Google solution challenge, now in the top 50 as a
 ### 🎓 Recent Projects
 >- [Developed a Mobile Device-Based Application for Delivering Obsessive Compulsive Disorder (OCD) Interventions](https://github.com/OkekeFabian/ocd) 
 >- [Progressive Web App based Mobile BLE GCS Interface]() 
+>- [A Flutter Application to offer Automatic Interventions using Google Home and a Wearable]() 
 
 <br />
 
